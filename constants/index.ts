@@ -7,4 +7,8 @@ export const navlinks = [
     href: "/posts",
     label: "Posts",
   },
+  {
+    href: "/articles",
+    label: "Articles",
+  },
 ];
